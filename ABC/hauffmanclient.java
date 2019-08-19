@@ -9,5 +9,5 @@ public class hauffmanclient {
 		System.out.println(hc.decode("111001010000"));
 
 	}
-
+}}}
 }
